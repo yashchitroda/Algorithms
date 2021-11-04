@@ -1,3 +1,2 @@
 # Algorithms
-
-Following repository consists of few basic algorithms based in python
+ Consists basic algorithms based on python
