@@ -1,2 +1,2 @@
 # Algorithms
- Consists basic algorithms based on Python
+ Consists basic algorithms based on Python.
